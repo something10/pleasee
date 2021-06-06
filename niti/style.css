@@ -1,0 +1,60 @@
+ body{
+	background:#BF69B1;
+	margin:3%;
+	font-size: 200%;
+
+}
+
+header{
+	background: #CB8EEA ;
+	text-align: center;
+	padding-bottom: 15px;
+	transition-property:color,width,background,border-radius;
+	transition-duration:0.5s;
+	transition-delay:0.5s;
+	transition-timing-function:linear;
+}
+header:hover{color:#EAEA8E ;
+
+background:#8ED9EA ;
+border-radius:50%;}
+h1{
+	color: #69BF77 ;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+h2{
+	color: #666666;
+	background: #CB8EEA ;
+}
+
+section{
+	width:30%;
+	margin-right: 2%;
+	display:inline-block;
+	float:left;
+}
+
+summary{
+	font-style:normal;
+}
+
+details{
+	font-style: italic;
+}
+
+footer{
+	background: #CB8EEA ;
+	height:100px;
+	clear: both;
+}
+
+img{
+	width: 75px;
+}
+
